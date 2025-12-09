@@ -11,7 +11,7 @@ Este documento describe el plan de desarrollo completo para la aplicación, incl
 **Agile/Scrum con Sprints de 2 semanas**
 
 **Razones:**
-- Flexibilidad para adaptarse a cambios
+- Flexibilidad para adaptarse a cambios 
 - Entrega incremental de valor
 - Feedback continuo
 - Mejor gestión de prioridades
